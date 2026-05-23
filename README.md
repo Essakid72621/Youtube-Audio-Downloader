@@ -13,3 +13,6 @@ It wasn't too hard to make, I used kivy for the GUI and yt_dlp for downloading y
 # Have fun!
 Hope you have fun messing around with it.
 In case of an issue, you can report it in the issues tab.
+
+# Latest release
+The latest release should be located at the right side of github, called releases, with a green release tag.
